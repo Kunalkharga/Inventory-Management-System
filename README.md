@@ -40,7 +40,7 @@ This **Inventory Management System** is a PHP and MySQL-based web application de
 
 The following diagram illustrates how the portfolio website (or any static site like this) is structured and how files are served to the client from a static file host/web server:
 
-![Portfolio Architecture Diagram]![diagram (1)](https://github.com/user-attachments/assets/09f73652-c35a-46d1-be6e-ee4dbda9d650)
+![diagram (1)](https://github.com/user-attachments/assets/09f73652-c35a-46d1-be6e-ee4dbda9d650)
 
 
 ---
