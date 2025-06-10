@@ -1,41 +1,49 @@
-**🌟 Project Overview**
+# 📦 Inventory Management System
 
-This Inventory Management System is a PHP and MySQL based web application designed to help businesses efficiently track inventory, manage products, and process sales. It provides a user-friendly interface for administrators to oversee stock levels, add new products, generate reports, and manage suppliers.
+## 🌟 Project Overview
 
-**✨ Key Features**
+This **Inventory Management System** is a PHP and MySQL-based web application designed to help businesses efficiently track inventory, manage products, and process sales. It provides a clean and user-friendly interface for administrators to oversee stock levels, manage suppliers, and generate reports — all from a centralized dashboard.
 
-✔ CRUD Operations – Create, Read, Update, and Delete products effortlessly
+---
 
-✔ Admin Dashboard – Centralized control panel for inventory management.
+## ✨ Key Features
 
-✔ Product Management – Add, edit, view, and delete products with ease.
+- ✅ **CRUD Operations** – Easily create, read, update, and delete products  
+- 📊 **Admin Dashboard** – Centralized control panel for managing inventory  
+- 📦 **Product Management** – Add, edit, view, and delete product details  
+- 📉 **Stock Tracking** – Real-time updates with low-stock alerts  
+- 🧾 **Sales & Order Processing** – Record sales, generate invoices, and manage customer orders  
+- 🤝 **Supplier Management** – Track suppliers and purchase history  
+- 🔐 **User Authentication** – Secure admin login system  
+- 📱 **Responsive Design** – Optimized for both desktop and mobile devices  
 
-✔ Stock Tracking – Real-time updates on inventory levels with alerts for low stock.
+---
 
-✔ Sales & Order Processing – Record sales, generate invoices, and manage customer orders.
+## 🛠️ Tech Stack
 
-✔ Supplier Management – Keep track of suppliers and purchase history.
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Local Server**: XAMPP  
 
-✔ User Authentication – Secure login system for admin access.
+---
 
-✔ Responsive Design – Works on desktop and mobile devices.
+## 🧭 Future Plans
+
+- 🧷 **Barcode Scanning** for faster product entry  
+- 🧑‍💼 **Multi-User Roles** (admin, cashier, manager)  
+- 📱 **REST API Integration** for future mobile apps  
+
+---
+
+## 🗂️ Project Architecture
+
+The following diagram illustrates how the portfolio website (or any static site like this) is structured and how files are served to the client from a static file host/web server:
+
+![Portfolio Architecture Diagram]![diagram (1)](https://github.com/user-attachments/assets/09f73652-c35a-46d1-be6e-ee4dbda9d650)
 
 
-**🛠️ Tech Stack**
+---
 
-‣ **Frontend:** HTML, CSS, Bootstrap, JavaScript
+⭐️ *If you find this project useful or inspiring, feel free to give it a star and fork it for your own use!*
 
-‣ **Backend:** PHP
-
-‣ **Database:** MySQL
-
-‣ **Local Server:** XAMPP 
-
-
-**🔮 Future Plans**
-
-• Barcode scanning
-
-• Multi-user roles
-
-• REST API for mobile apps
