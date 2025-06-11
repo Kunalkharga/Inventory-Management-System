@@ -45,5 +45,15 @@ The following diagram illustrates how the portfolio website (or any static site 
 
 ---
 
+## About This Project
+
+This project is based on the original Inventory Management System created by Siamon Hasan and licensed under the MIT License.
+
+I have used it as a base for my college project and made modifications.
+
+Original License is included as per MIT terms.
+
+---
+
 ⭐️ *If you find this project useful or inspiring, feel free to give it a star and fork it for your own use!*
 
